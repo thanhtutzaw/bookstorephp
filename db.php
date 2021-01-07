@@ -1,7 +1,7 @@
 <?php 
 	
 	function createDB(){
-		$server = "bookstore5";
+		$server = "den1.mysql1.gear.host";
 		$user = "bookstore5";
 		$password = "Fk56qpOd!49_";
 		$dbname = "bookstore5";
